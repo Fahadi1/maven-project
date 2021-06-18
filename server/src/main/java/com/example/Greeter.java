@@ -12,8 +12,7 @@ public class Greeter {
   * Creates an empty Greet.
   */
   public Greeter() {
-  }
-  
+  } 
   /**
   * Method qui renvoie "Hello babacar".
   * @param someone the person to greet
