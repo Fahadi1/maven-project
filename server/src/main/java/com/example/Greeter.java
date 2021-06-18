@@ -9,21 +9,20 @@ package com.example;
 /**
 * The greet class is a program to greet someone.
 * simply displays "Hello babacar !" to the person who uses it.
-*
 * @author  Zara Ali
 * @version 1.0
-* @since   2014-03-31
+* @since   2021-06-18
 */
 public class Greeter {
 
-  /** 
-  * Class constructor.
+  /**
+  * Create an empty Greet
   */
   public Greeter() {
   }
   
   /**
-  * This method allows to greet someone
+  * This method allows to greet someone.
   * @param someone the person to greet
   * @return the greeting in the right format
   */
