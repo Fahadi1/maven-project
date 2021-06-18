@@ -13,6 +13,7 @@ public class Greeter {
   */
   public Greeter() {
   } 
+
   /**
   * Method qui renvoie "Hello babacar".
   * @param someone the person to greet
