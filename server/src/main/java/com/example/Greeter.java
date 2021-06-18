@@ -1,3 +1,9 @@
+/**
+ * This module is an example for the TP
+ * @since 1.0
+ * @author FAhadi1
+ * @version 1.0
+ */
 package com.example;
 
 public class Greeter {
