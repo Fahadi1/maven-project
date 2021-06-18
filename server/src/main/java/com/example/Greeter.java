@@ -3,7 +3,7 @@ package com.example;
 public class Greeter {
 
   public Greeter() {
-
+      //constructeur vide
   }
 
   public final String greet(final String someone) {
