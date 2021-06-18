@@ -10,8 +10,8 @@ public class Greeter {
 
   /**
   ** this is a method to greet 
-  ** @param somone : the someone to be greeted
-  ** @return the right format of the returned string
+  ** @param someone : the someone to be greeted
+  ** @return String : the right format of the returned string
   **/
   public final String greet(final String someone) {
     return String.format("Hello babacar, %s!", someone);
